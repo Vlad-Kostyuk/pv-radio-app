@@ -1,0 +1,6 @@
+io/github/tastelessjolt/flutterdynamicicon/BuildConfig.java
+ io.github.tastelessjolt.flutterdynamicicon.BuildConfig
+io/github/tastelessjolt/flutterdynamicicon/MethodCallHandlerImpl.java
+ io.github.tastelessjolt.flutterdynamicicon.MethodCallHandlerImpl
+io/github/tastelessjolt/flutterdynamicicon/FlutterDynamicIconPlugin.java
+ io.github.tastelessjolt.flutterdynamicicon.FlutterDynamicIconPlugin

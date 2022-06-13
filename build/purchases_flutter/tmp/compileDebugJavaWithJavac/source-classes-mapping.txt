@@ -1,0 +1,9 @@
+com/revenuecat/purchases_flutter/BuildConfig.java
+ com.revenuecat.purchases_flutter.BuildConfig
+com/revenuecat/purchases_flutter/PurchasesFlutterPlugin.java
+ com.revenuecat.purchases_flutter.PurchasesFlutterPlugin
+ com.revenuecat.purchases_flutter.PurchasesFlutterPlugin$1
+ com.revenuecat.purchases_flutter.PurchasesFlutterPlugin$2
+ com.revenuecat.purchases_flutter.PurchasesFlutterPlugin$3
+ com.revenuecat.purchases_flutter.PurchasesFlutterPlugin$4
+ com.revenuecat.purchases_flutter.PurchasesFlutterPlugin$5
