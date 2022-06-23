@@ -1,0 +1,403 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:1:1-48:12
+MERGED from [:just_audio] D:\jobs\pv-radio-app\build\just_audio\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_android] D:\jobs\pv-radio-app\build\shared_preferences_android\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:audio_service] D:\jobs\pv-radio-app\build\audio_service\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] D:\jobs\pv-radio-app\build\sqflite\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher_android] D:\jobs\pv-radio-app\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:2:1-14:12
+MERGED from [:path_provider_android] D:\jobs\pv-radio-app\build\path_provider_android\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:audio_session] D:\jobs\pv-radio-app\build\audio_session\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_dynamic_icon] D:\jobs\pv-radio-app\build\flutter_dynamic_icon\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:purchases_flutter] D:\jobs\pv-radio-app\build\purchases_flutter\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:share_files_and_screenshot_widgets] D:\jobs\pv-radio-app\build\share_files_and_screenshot_widgets\intermediates\library_manifest\release\AndroidManifest.xml:2:1-19:12
+MERGED from [com.revenuecat.purchases:purchases-hybrid-common:1.11.2] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\ecc3b47845a6b7c0b21bab3875f6f9d3\jetified-purchases-hybrid-common-1.11.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.revenuecat.purchases:purchases:4.6.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\7caec3a21f26397ed5b92533261d65b1\jetified-purchases-4.6.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\ad201fac15a88598107ec645f351f5b4\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\a2f650a70b204393ba1526e0273d563e\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.15.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\3338aecccf19a5e34acd9b1da741b9dd\jetified-exoplayer-dash-2.15.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.15.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\c12e79b199cbc57c73eb3ae3df088063\jetified-exoplayer-hls-2.15.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.15.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\883320192f536a3ae59552fa834c8b22\jetified-exoplayer-smoothstreaming-2.15.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.15.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\1c8029bc9c6470bdd4331a8beb2ed60c\jetified-exoplayer-core-2.15.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.media2:media2-session:1.1.3] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\de16f4b64dab27be6e205eda03cecad0\jetified-media2-session-1.1.3\AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.media2:media2-common:1.1.3] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\77cc596fbbc97b6797307cad4d3b5dd2\jetified-media2-common-1.1.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.4.3] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\570b08bd1076f6c263d4018800c9909d\media-1.4.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.15.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\0dbc82d76c668e36374bcc493841f91b\jetified-exoplayer-extractor-2.15.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.15.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\eb7b1fd5142030bd15fd1d4bfbc432a2\jetified-exoplayer-common-2.15.0\AndroidManifest.xml:17:1-26:12
+MERGED from [com.revenuecat.purchases:purchases-core-feature-identity:4.6.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\76304bf681f08aad7d0c5b02fdfb06b6\jetified-purchases-core-feature-identity-4.6.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.revenuecat.purchases:purchases-core-feature-subscriber-attributes:4.6.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\b5cc3a3c8662ec7d0944185d60fbddc9\jetified-purchases-core-feature-subscriber-attributes-4.6.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\062c584e7105f32bea72d749c12db8a1\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.revenuecat.purchases:purchases-store-google:4.6.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\0aaf2d88d87a4695e2ddb502e000aa48\jetified-purchases-store-google-4.6.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\4d1133d06143520dc4afd7013f4876b3\jetified-play-services-ads-identifier-17.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\a7975ba3cb0c3630bd14453686890431\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\8601dd65e0c6893d5abc5ccde1e2cab3\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\6c6575c923e75933616af1a602db32e0\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\ae39e38aa58f5c391f29a4bfad4a41a4\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\92d1f830d8a4f76d15ea1f849fb6f29f\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\172ae1f46f014e6681a2cc350fa8b737\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.revenuecat.purchases:purchases-core-common:4.6.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\8f24ea636845e86f214d5dcc76df0424\jetified-purchases-core-common-4.6.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.revenuecat.purchases:purchases-core-public:4.6.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\947798b3e136f9d1eeff418190e8072a\jetified-purchases-core-public-4.6.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.revenuecat.purchases:purchases-core-utils:4.6.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\977a1c364e23197e6eaed81d70c7ddc1\jetified-purchases-core-utils-4.6.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core-ktx:1.3.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\0f3fca588dddb11c09160c49be70555f\jetified-core-ktx-1.3.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\09c1773ed3597f8bec6064dc26d157be\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\9ccab238727e236e8aff01a0f95cebe4\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\1463556a47b0b11e0e32553482070255\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\61fd575f974e3d768efc2f6a143e0eae\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\986216458f3c0df423ee68e7f1177976\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\122df2e57d294d1a53db26bbc3b813c1\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\884708a9396f81808c0ac10f4b98ea32\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.3.0-rc01] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\99ade9b95c577019d8e1ab7a84d2d875\jetified-lifecycle-process-2.3.0-rc01\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-rc01] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\0c4c3a64bec84f3e46f1741419733669\lifecycle-runtime-2.3.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\9a0e475eb211916dfa0da9de1d6c02a3\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\8d7928c9f52af5f964a662866fcebb3e\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\8108bc8c5f35a568f919dbab3be0e175\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\403e5322101e882ebd13d146c86f92ca\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\16e110bf603f94cf61f970a18f3907e3\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\69ba5a98805d81d755806668ff70d04f\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\9ed314abc3df537a2d48c1cb6d65998e\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.revenuecat.purchases:purchases-core-strings:4.6.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\635e09f06014f16bdcf34ad136403a9a\jetified-purchases-core-strings-4.6.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\5bfc0955e244073bdc8cc139cda5e092\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.billingclient:billing:4.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\73a00645c55fb0dc0d60bdf56a9ec877\jetified-billing-4.0.0\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:1:1-48:12
+	package
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:2:5-39
+		INJECTED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:1:1-48:12
+		INJECTED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:1:1-48:12
+		INJECTED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:4:5-66
+MERGED from [com.revenuecat.purchases:purchases:4.6.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\7caec3a21f26397ed5b92533261d65b1\jetified-purchases-4.6.1\AndroidManifest.xml:9:5-67
+MERGED from [com.revenuecat.purchases:purchases:4.6.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\7caec3a21f26397ed5b92533261d65b1\jetified-purchases-4.6.1\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:6:22-74
+application
+ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:13:5-47:19
+MERGED from [:url_launcher_android] D:\jobs\pv-radio-app\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher_android] D:\jobs\pv-radio-app\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:7:5-12:19
+MERGED from [:share_files_and_screenshot_widgets] D:\jobs\pv-radio-app\build\share_files_and_screenshot_widgets\intermediates\library_manifest\release\AndroidManifest.xml:7:5-17:19
+MERGED from [:share_files_and_screenshot_widgets] D:\jobs\pv-radio-app\build\share_files_and_screenshot_widgets\intermediates\library_manifest\release\AndroidManifest.xml:7:5-17:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\4d1133d06143520dc4afd7013f4876b3\jetified-play-services-ads-identifier-17.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\4d1133d06143520dc4afd7013f4876b3\jetified-play-services-ads-identifier-17.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\a7975ba3cb0c3630bd14453686890431\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\a7975ba3cb0c3630bd14453686890431\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\122df2e57d294d1a53db26bbc3b813c1\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\122df2e57d294d1a53db26bbc3b813c1\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\884708a9396f81808c0ac10f4b98ea32\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\884708a9396f81808c0ac10f4b98ea32\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.3.0-rc01] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\99ade9b95c577019d8e1ab7a84d2d875\jetified-lifecycle-process-2.3.0-rc01\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.3.0-rc01] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\99ade9b95c577019d8e1ab7a84d2d875\jetified-lifecycle-process-2.3.0-rc01\AndroidManifest.xml:24:5-30:19
+MERGED from [com.android.billingclient:billing:4.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\73a00645c55fb0dc0d60bdf56a9ec877\jetified-billing-4.0.0\AndroidManifest.xml:12:5-22:19
+MERGED from [com.android.billingclient:billing:4.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\73a00645c55fb0dc0d60bdf56a9ec877\jetified-billing-4.0.0\AndroidManifest.xml:12:5-22:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\122df2e57d294d1a53db26bbc3b813c1\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:15:9-43
+	android:icon
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:16:9-43
+	android:usesCleartextTraffic
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:14:9-44
+activity#com.ryanheise.audioservice.AudioServiceActivity
+ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:18:9-30:20
+	android:launchMode
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:20:13-43
+	android:hardwareAccelerated
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:23:13-47
+	android:windowSoftInputMode
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:24:13-55
+	android:exported
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:25:13-36
+	android:configChanges
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:22:13-144
+	android:theme
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:21:13-47
+	android:name
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:19:13-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:26:13-29:29
+action#android.intent.action.MAIN
+ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:27:17-68
+	android:name
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:28:17-76
+	android:name
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:28:27-74
+service#com.ryanheise.audioservice.AudioService
+ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:32:9-36:19
+	android:exported
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:32:73-96
+	android:name
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:32:18-72
+intent-filter#action:name:android.media.browse.MediaBrowserService
+ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:33:13-35:29
+action#android.media.browse.MediaBrowserService
+ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:34:17-83
+	android:name
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:34:25-80
+receiver#com.ryanheise.audioservice.MediaButtonReceiver
+ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:38:9-42:20
+	android:exported
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:38:81-104
+	android:name
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:38:19-80
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:39:13-41:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:40:25-74
+meta-data#flutterEmbedding
+ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:44:9-46:33
+	android:value
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:46:13-30
+	android:name
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml:45:13-44
+uses-sdk
+INJECTED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml
+MERGED from [:just_audio] D:\jobs\pv-radio-app\build\just_audio\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:just_audio] D:\jobs\pv-radio-app\build\just_audio\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] D:\jobs\pv-radio-app\build\shared_preferences_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] D:\jobs\pv-radio-app\build\shared_preferences_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:audio_service] D:\jobs\pv-radio-app\build\audio_service\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:audio_service] D:\jobs\pv-radio-app\build\audio_service\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] D:\jobs\pv-radio-app\build\sqflite\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] D:\jobs\pv-radio-app\build\sqflite\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] D:\jobs\pv-radio-app\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] D:\jobs\pv-radio-app\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] D:\jobs\pv-radio-app\build\path_provider_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] D:\jobs\pv-radio-app\build\path_provider_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:audio_session] D:\jobs\pv-radio-app\build\audio_session\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:audio_session] D:\jobs\pv-radio-app\build\audio_session\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_dynamic_icon] D:\jobs\pv-radio-app\build\flutter_dynamic_icon\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_dynamic_icon] D:\jobs\pv-radio-app\build\flutter_dynamic_icon\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:purchases_flutter] D:\jobs\pv-radio-app\build\purchases_flutter\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:purchases_flutter] D:\jobs\pv-radio-app\build\purchases_flutter\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:share_files_and_screenshot_widgets] D:\jobs\pv-radio-app\build\share_files_and_screenshot_widgets\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:share_files_and_screenshot_widgets] D:\jobs\pv-radio-app\build\share_files_and_screenshot_widgets\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [com.revenuecat.purchases:purchases-hybrid-common:1.11.2] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\ecc3b47845a6b7c0b21bab3875f6f9d3\jetified-purchases-hybrid-common-1.11.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.revenuecat.purchases:purchases-hybrid-common:1.11.2] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\ecc3b47845a6b7c0b21bab3875f6f9d3\jetified-purchases-hybrid-common-1.11.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.revenuecat.purchases:purchases:4.6.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\7caec3a21f26397ed5b92533261d65b1\jetified-purchases-4.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.revenuecat.purchases:purchases:4.6.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\7caec3a21f26397ed5b92533261d65b1\jetified-purchases-4.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\ad201fac15a88598107ec645f351f5b4\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\ad201fac15a88598107ec645f351f5b4\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\a2f650a70b204393ba1526e0273d563e\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\a2f650a70b204393ba1526e0273d563e\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.15.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\3338aecccf19a5e34acd9b1da741b9dd\jetified-exoplayer-dash-2.15.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.15.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\3338aecccf19a5e34acd9b1da741b9dd\jetified-exoplayer-dash-2.15.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.15.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\c12e79b199cbc57c73eb3ae3df088063\jetified-exoplayer-hls-2.15.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.15.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\c12e79b199cbc57c73eb3ae3df088063\jetified-exoplayer-hls-2.15.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.15.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\883320192f536a3ae59552fa834c8b22\jetified-exoplayer-smoothstreaming-2.15.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.15.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\883320192f536a3ae59552fa834c8b22\jetified-exoplayer-smoothstreaming-2.15.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.15.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\1c8029bc9c6470bdd4331a8beb2ed60c\jetified-exoplayer-core-2.15.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.15.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\1c8029bc9c6470bdd4331a8beb2ed60c\jetified-exoplayer-core-2.15.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-session:1.1.3] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\de16f4b64dab27be6e205eda03cecad0\jetified-media2-session-1.1.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-session:1.1.3] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\de16f4b64dab27be6e205eda03cecad0\jetified-media2-session-1.1.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-common:1.1.3] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\77cc596fbbc97b6797307cad4d3b5dd2\jetified-media2-common-1.1.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-common:1.1.3] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\77cc596fbbc97b6797307cad4d3b5dd2\jetified-media2-common-1.1.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.4.3] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\570b08bd1076f6c263d4018800c9909d\media-1.4.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.4.3] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\570b08bd1076f6c263d4018800c9909d\media-1.4.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.15.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\0dbc82d76c668e36374bcc493841f91b\jetified-exoplayer-extractor-2.15.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.15.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\0dbc82d76c668e36374bcc493841f91b\jetified-exoplayer-extractor-2.15.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.15.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\eb7b1fd5142030bd15fd1d4bfbc432a2\jetified-exoplayer-common-2.15.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.15.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\eb7b1fd5142030bd15fd1d4bfbc432a2\jetified-exoplayer-common-2.15.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.revenuecat.purchases:purchases-core-feature-identity:4.6.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\76304bf681f08aad7d0c5b02fdfb06b6\jetified-purchases-core-feature-identity-4.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.revenuecat.purchases:purchases-core-feature-identity:4.6.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\76304bf681f08aad7d0c5b02fdfb06b6\jetified-purchases-core-feature-identity-4.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.revenuecat.purchases:purchases-core-feature-subscriber-attributes:4.6.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\b5cc3a3c8662ec7d0944185d60fbddc9\jetified-purchases-core-feature-subscriber-attributes-4.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.revenuecat.purchases:purchases-core-feature-subscriber-attributes:4.6.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\b5cc3a3c8662ec7d0944185d60fbddc9\jetified-purchases-core-feature-subscriber-attributes-4.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\062c584e7105f32bea72d749c12db8a1\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\062c584e7105f32bea72d749c12db8a1\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.revenuecat.purchases:purchases-store-google:4.6.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\0aaf2d88d87a4695e2ddb502e000aa48\jetified-purchases-store-google-4.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.revenuecat.purchases:purchases-store-google:4.6.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\0aaf2d88d87a4695e2ddb502e000aa48\jetified-purchases-store-google-4.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\4d1133d06143520dc4afd7013f4876b3\jetified-play-services-ads-identifier-17.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\4d1133d06143520dc4afd7013f4876b3\jetified-play-services-ads-identifier-17.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\a7975ba3cb0c3630bd14453686890431\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\a7975ba3cb0c3630bd14453686890431\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\8601dd65e0c6893d5abc5ccde1e2cab3\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\8601dd65e0c6893d5abc5ccde1e2cab3\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\6c6575c923e75933616af1a602db32e0\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\6c6575c923e75933616af1a602db32e0\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\ae39e38aa58f5c391f29a4bfad4a41a4\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\ae39e38aa58f5c391f29a4bfad4a41a4\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\92d1f830d8a4f76d15ea1f849fb6f29f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\92d1f830d8a4f76d15ea1f849fb6f29f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\172ae1f46f014e6681a2cc350fa8b737\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\172ae1f46f014e6681a2cc350fa8b737\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.revenuecat.purchases:purchases-core-common:4.6.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\8f24ea636845e86f214d5dcc76df0424\jetified-purchases-core-common-4.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.revenuecat.purchases:purchases-core-common:4.6.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\8f24ea636845e86f214d5dcc76df0424\jetified-purchases-core-common-4.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.revenuecat.purchases:purchases-core-public:4.6.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\947798b3e136f9d1eeff418190e8072a\jetified-purchases-core-public-4.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.revenuecat.purchases:purchases-core-public:4.6.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\947798b3e136f9d1eeff418190e8072a\jetified-purchases-core-public-4.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.revenuecat.purchases:purchases-core-utils:4.6.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\977a1c364e23197e6eaed81d70c7ddc1\jetified-purchases-core-utils-4.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.revenuecat.purchases:purchases-core-utils:4.6.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\977a1c364e23197e6eaed81d70c7ddc1\jetified-purchases-core-utils-4.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\0f3fca588dddb11c09160c49be70555f\jetified-core-ktx-1.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\0f3fca588dddb11c09160c49be70555f\jetified-core-ktx-1.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\09c1773ed3597f8bec6064dc26d157be\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\09c1773ed3597f8bec6064dc26d157be\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\9ccab238727e236e8aff01a0f95cebe4\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\9ccab238727e236e8aff01a0f95cebe4\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\1463556a47b0b11e0e32553482070255\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\1463556a47b0b11e0e32553482070255\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\61fd575f974e3d768efc2f6a143e0eae\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\61fd575f974e3d768efc2f6a143e0eae\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\986216458f3c0df423ee68e7f1177976\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\986216458f3c0df423ee68e7f1177976\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\122df2e57d294d1a53db26bbc3b813c1\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\122df2e57d294d1a53db26bbc3b813c1\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\884708a9396f81808c0ac10f4b98ea32\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\884708a9396f81808c0ac10f4b98ea32\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.3.0-rc01] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\99ade9b95c577019d8e1ab7a84d2d875\jetified-lifecycle-process-2.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.3.0-rc01] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\99ade9b95c577019d8e1ab7a84d2d875\jetified-lifecycle-process-2.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-rc01] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\0c4c3a64bec84f3e46f1741419733669\lifecycle-runtime-2.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-rc01] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\0c4c3a64bec84f3e46f1741419733669\lifecycle-runtime-2.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\9a0e475eb211916dfa0da9de1d6c02a3\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\9a0e475eb211916dfa0da9de1d6c02a3\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\8d7928c9f52af5f964a662866fcebb3e\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\8d7928c9f52af5f964a662866fcebb3e\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\8108bc8c5f35a568f919dbab3be0e175\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\8108bc8c5f35a568f919dbab3be0e175\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\403e5322101e882ebd13d146c86f92ca\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\403e5322101e882ebd13d146c86f92ca\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\16e110bf603f94cf61f970a18f3907e3\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\16e110bf603f94cf61f970a18f3907e3\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\69ba5a98805d81d755806668ff70d04f\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\69ba5a98805d81d755806668ff70d04f\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\9ed314abc3df537a2d48c1cb6d65998e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\9ed314abc3df537a2d48c1cb6d65998e\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.revenuecat.purchases:purchases-core-strings:4.6.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\635e09f06014f16bdcf34ad136403a9a\jetified-purchases-core-strings-4.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.revenuecat.purchases:purchases-core-strings:4.6.1] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\635e09f06014f16bdcf34ad136403a9a\jetified-purchases-core-strings-4.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\5bfc0955e244073bdc8cc139cda5e092\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\5bfc0955e244073bdc8cc139cda5e092\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.billingclient:billing:4.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\73a00645c55fb0dc0d60bdf56a9ec877\jetified-billing-4.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.billingclient:billing:4.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\73a00645c55fb0dc0d60bdf56a9ec877\jetified-billing-4.0.0\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\jobs\pv-radio-app\android\app\src\main\AndroidManifest.xml
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] D:\jobs\pv-radio-app\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher_android] D:\jobs\pv-radio-app\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher_android] D:\jobs\pv-radio-app\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher_android] D:\jobs\pv-radio-app\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:9:13-74
+provider#com.twwm.share_files_and_screenshot_widgets.ShareFilesAndScreenshotWidgetsFileProvider
+ADDED from [:share_files_and_screenshot_widgets] D:\jobs\pv-radio-app\build\share_files_and_screenshot_widgets\intermediates\library_manifest\release\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:share_files_and_screenshot_widgets] D:\jobs\pv-radio-app\build\share_files_and_screenshot_widgets\intermediates\library_manifest\release\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:share_files_and_screenshot_widgets] D:\jobs\pv-radio-app\build\share_files_and_screenshot_widgets\intermediates\library_manifest\release\AndroidManifest.xml:10:13-99
+	android:exported
+		ADDED from [:share_files_and_screenshot_widgets] D:\jobs\pv-radio-app\build\share_files_and_screenshot_widgets\intermediates\library_manifest\release\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:share_files_and_screenshot_widgets] D:\jobs\pv-radio-app\build\share_files_and_screenshot_widgets\intermediates\library_manifest\release\AndroidManifest.xml:9:13-114
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:share_files_and_screenshot_widgets] D:\jobs\pv-radio-app\build\share_files_and_screenshot_widgets\intermediates\library_manifest\release\AndroidManifest.xml:13:13-15:78
+	android:resource
+		ADDED from [:share_files_and_screenshot_widgets] D:\jobs\pv-radio-app\build\share_files_and_screenshot_widgets\intermediates\library_manifest\release\AndroidManifest.xml:15:17-75
+	android:name
+		ADDED from [:share_files_and_screenshot_widgets] D:\jobs\pv-radio-app\build\share_files_and_screenshot_widgets\intermediates\library_manifest\release\AndroidManifest.xml:14:17-67
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\03c633e46d75bfb21f082f0417f55161\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.15.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\1c8029bc9c6470bdd4331a8beb2ed60c\jetified-exoplayer-core-2.15.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.15.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\eb7b1fd5142030bd15fd1d4bfbc432a2\jetified-exoplayer-common-2.15.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.15.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\eb7b1fd5142030bd15fd1d4bfbc432a2\jetified-exoplayer-common-2.15.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.15.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\1c8029bc9c6470bdd4331a8beb2ed60c\jetified-exoplayer-core-2.15.0\AndroidManifest.xml:24:22-76
+queries
+ADDED from [androidx.media2:media2-session:1.1.3] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\de16f4b64dab27be6e205eda03cecad0\jetified-media2-session-1.1.3\AndroidManifest.xml:24:5-34:15
+intent#action:name:android.media.browse.MediaBrowserService
+ADDED from [androidx.media2:media2-session:1.1.3] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\de16f4b64dab27be6e205eda03cecad0\jetified-media2-session-1.1.3\AndroidManifest.xml:25:9-27:18
+intent#action:name:androidx.media2.session.MediaSessionService
+ADDED from [androidx.media2:media2-session:1.1.3] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\de16f4b64dab27be6e205eda03cecad0\jetified-media2-session-1.1.3\AndroidManifest.xml:28:9-30:18
+action#androidx.media2.session.MediaSessionService
+ADDED from [androidx.media2:media2-session:1.1.3] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\de16f4b64dab27be6e205eda03cecad0\jetified-media2-session-1.1.3\AndroidManifest.xml:29:13-82
+	android:name
+		ADDED from [androidx.media2:media2-session:1.1.3] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\de16f4b64dab27be6e205eda03cecad0\jetified-media2-session-1.1.3\AndroidManifest.xml:29:21-79
+intent#action:name:androidx.media2.session.MediaLibraryService
+ADDED from [androidx.media2:media2-session:1.1.3] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\de16f4b64dab27be6e205eda03cecad0\jetified-media2-session-1.1.3\AndroidManifest.xml:31:9-33:18
+action#androidx.media2.session.MediaLibraryService
+ADDED from [androidx.media2:media2-session:1.1.3] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\de16f4b64dab27be6e205eda03cecad0\jetified-media2-session-1.1.3\AndroidManifest.xml:32:13-82
+	android:name
+		ADDED from [androidx.media2:media2-session:1.1.3] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\de16f4b64dab27be6e205eda03cecad0\jetified-media2-session-1.1.3\AndroidManifest.xml:32:21-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\a7975ba3cb0c3630bd14453686890431\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\a7975ba3cb0c3630bd14453686890431\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\a7975ba3cb0c3630bd14453686890431\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.3.0-rc01] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\99ade9b95c577019d8e1ab7a84d2d875\jetified-lifecycle-process-2.3.0-rc01\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.3.0-rc01] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\99ade9b95c577019d8e1ab7a84d2d875\jetified-lifecycle-process-2.3.0-rc01\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.3.0-rc01] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\99ade9b95c577019d8e1ab7a84d2d875\jetified-lifecycle-process-2.3.0-rc01\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.3.0-rc01] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\99ade9b95c577019d8e1ab7a84d2d875\jetified-lifecycle-process-2.3.0-rc01\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.3.0-rc01] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\99ade9b95c577019d8e1ab7a84d2d875\jetified-lifecycle-process-2.3.0-rc01\AndroidManifest.xml:26:13-79
+uses-permission#com.android.vending.BILLING
+ADDED from [com.android.billingclient:billing:4.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\73a00645c55fb0dc0d60bdf56a9ec877\jetified-billing-4.0.0\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [com.android.billingclient:billing:4.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\73a00645c55fb0dc0d60bdf56a9ec877\jetified-billing-4.0.0\AndroidManifest.xml:10:22-64
+meta-data#com.google.android.play.billingclient.version
+ADDED from [com.android.billingclient:billing:4.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\73a00645c55fb0dc0d60bdf56a9ec877\jetified-billing-4.0.0\AndroidManifest.xml:13:9-15:37
+	android:value
+		ADDED from [com.android.billingclient:billing:4.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\73a00645c55fb0dc0d60bdf56a9ec877\jetified-billing-4.0.0\AndroidManifest.xml:15:13-34
+	android:name
+		ADDED from [com.android.billingclient:billing:4.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\73a00645c55fb0dc0d60bdf56a9ec877\jetified-billing-4.0.0\AndroidManifest.xml:14:13-73
+activity#com.android.billingclient.api.ProxyBillingActivity
+ADDED from [com.android.billingclient:billing:4.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\73a00645c55fb0dc0d60bdf56a9ec877\jetified-billing-4.0.0\AndroidManifest.xml:17:9-21:75
+	android:exported
+		ADDED from [com.android.billingclient:billing:4.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\73a00645c55fb0dc0d60bdf56a9ec877\jetified-billing-4.0.0\AndroidManifest.xml:20:13-37
+	android:configChanges
+		ADDED from [com.android.billingclient:billing:4.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\73a00645c55fb0dc0d60bdf56a9ec877\jetified-billing-4.0.0\AndroidManifest.xml:19:13-96
+	android:theme
+		ADDED from [com.android.billingclient:billing:4.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\73a00645c55fb0dc0d60bdf56a9ec877\jetified-billing-4.0.0\AndroidManifest.xml:21:13-72
+	android:name
+		ADDED from [com.android.billingclient:billing:4.0.0] C:\Users\Vlad\.gradle\caches\transforms-2\files-2.1\73a00645c55fb0dc0d60bdf56a9ec877\jetified-billing-4.0.0\AndroidManifest.xml:18:13-78
